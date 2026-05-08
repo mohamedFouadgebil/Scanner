@@ -12,6 +12,7 @@
     "express": "^4.21.2",
     "mongoose": "^7.6.0",
     "portscanner": "^2.2.0",
+    "helmet": "^8.1.0",
     "whois-json": "^2.0.4"
   },
   "devDependencies": {
